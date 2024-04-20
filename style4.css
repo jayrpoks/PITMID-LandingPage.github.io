@@ -1,0 +1,30 @@
+/*
+Theme Name: Sundae
+Author: Sundae
+*/
+
+/* --- Fix Dr. Phil banner + admin bar -------------------------------------- */
+
+.admin-bar .header_top.type_red {
+    margin-top: 32px;
+}
+
+.header_top.type_red {
+    z-index: 99;
+}
+
+.admin-bar #header {
+    margin-top: 90px;
+}
+
+.admin-bar #main_section .sub-nav {
+    top: 168px;
+}
+
+#main_section .sub-nav {
+    top: 136px;
+}
+
+/* --- Leona ---------------------------------------------------------------- */
+
+#debug-output pre { font-size: 12px; }
